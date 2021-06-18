@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Rounaq Basu"
-  avatar           : "Basu_Headshot.png"
+  avatar           : "Basu_Headshot.jpg"
   bio              : "Urban Plangineer"
   location         : "Cambridge, MA"
   employer         :
   pubmed           : 
-  googlescholar    : "hhttps://scholar.google.com/citations?user=Zx4Sk7YAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=Zx4Sk7YAAAAJ&hl=en"
   email            : "rounaq@mit.edu"
   researchgate     : "https://www.researchgate.net/profile/Rounaq-Basu"
   uri              :
